@@ -1,0 +1,15 @@
+{
+    "id_user": 16,
+    "id_status": 1,
+    "id_type": 1,
+    "creation_date": "2024-02-07T08:00:00",
+    "message_text": "Hola mundo",
+    "email": "",
+    "movil": "5620855418",
+    "local_code": "52",
+    "message_meta_id": "",
+    "user": null,
+    "status": null,
+    "type": null,
+    "id": 0
+}
